@@ -251,7 +251,8 @@ export const FilterClean = styled.div`
 
   @media screen and (max-width: 943px) {
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    width: 100%;
 
     span {
       cursor: pointer;
@@ -278,11 +279,13 @@ export const FilterAdvanced = styled.div`
 
   @media screen and (max-width: 943px) {
     display: flex;
+    justify-content: center;
     align-items: center;
+    margin-bottom: 5px;
     font-weight: 700;
     width: auto;
     color: #eb0c29;
-    width: 200px;
+    width: 100%;
 
     span {
       font-size: 14px;

@@ -25,10 +25,16 @@ Para executar o test execute o seguinte comando: 🚀
 ```
 
 # Imagens 
+
+<h2>Desktop</h1>
 <p align="center">
   <img src="./src/assets/desktop.png" />
 </p>
 
+<h2>Responsive</h1>
+<p align="center">
+  <img src="./src/assets/responsive.png" />
+</p>
 
 
 
