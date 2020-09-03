@@ -10,7 +10,7 @@ Jest 🧪  <br />
 React Icons ⚡️ <br />
 Typescript 🖥
 
-🚀 - Para executar o projeto execute o seguinte comando:
+Para executar o projeto execute o seguinte comando: 🚀 
 
 ```js
     yarn start ou npm start 🥊
@@ -18,7 +18,7 @@ Typescript 🖥
 
 # Foi disponibilizado um test
 
-🚀 - Para executar o test execute o seguinte comando:
+Para executar o test execute o seguinte comando: 🚀
 
 ```js
     yarn test ou npm test 🥊
